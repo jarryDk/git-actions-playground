@@ -1,1 +1,6 @@
 # Git action playground
+
+
+## Links
+
+https://adamtheautomator.com/github-actions-environment-variables/
