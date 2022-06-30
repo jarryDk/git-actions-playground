@@ -36,4 +36,4 @@ jobs:
           echo test, and deploy your project.
     env:
           First_Name: Mona
-          Last_Name: ${{ env.playground.USER_NAME }}
+          Last_Name: ${{ secrets.USER_NAME }}
